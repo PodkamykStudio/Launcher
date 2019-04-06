@@ -12,4 +12,8 @@ Update History
 - Zmiana Tła i oraz ikony exe
 - Stworzenie drugiej formy
 
+
+06.04.2019 v 0.10
+- Drobne Poprawki w systemie
+
 Prace nadal trwają
