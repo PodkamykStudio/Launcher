@@ -16,4 +16,9 @@ Update History
 06.04.2019 v 0.10
 - Drobne Poprawki w systemie
 
+
+06.04.2019 v 0.20
+- Dodanie gatunków aplikacji
+- Programowanie następnych form
+
 Prace nadal trwają
