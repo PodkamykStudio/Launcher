@@ -27,4 +27,11 @@ Update History
 - Ulepszenie interfejsu
 - Wiadomości po otworzeniu nie których aplikacji
 
+07.04.2019 v 0.40
+- Zaprogramowanie 6 formy
+- Dodanie informacji o autorze
+- Szybsze ładowanie aplikacji
+- Drobne poprawki w kodzie
+- Kolejna faza testów
+
 Prace nadal trwają
