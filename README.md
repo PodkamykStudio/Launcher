@@ -21,4 +21,10 @@ Update History
 - Dodanie gatunków aplikacji
 - Programowanie następnych form
 
+
+07.04.2019 v 0.30
+- Zaprogramowanie 5 form 
+- Ulepszenie interfejsu
+- Wiadomości o otworzeniu nie których aplikacji
+
 Prace nadal trwają
