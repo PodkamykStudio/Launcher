@@ -33,5 +33,6 @@ Update History
 - Szybsze ładowanie aplikacji
 - Drobne poprawki w kodzie
 - Kolejna faza testów
+- Dodanie instalatora
 
 Prace nadal trwają
