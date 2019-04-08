@@ -35,4 +35,9 @@ Update History
 - Kolejna faza testów
 - Dodanie instalatora
 
+
+08.04.2019 v 0.50
+- Usprawiono kod
+- Dodano easteregga
+
 Prace nadal trwają
