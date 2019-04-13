@@ -40,4 +40,20 @@ Update History
 - Usprawiono kod
 - Dodano easteregga
 
+
+09.04.2019 v 0.60
+- Szybsze ładowanie aplikacji
+- Poprawa drobnych błędów
+
+10.04.2019 v 0.70
+- Testy nad nowymi grami w launcherze
+
+
+13.04.2019 v 0.80
+- Usunięcie zbugowanego easteregga
+- Dodanie muzyki
+- Dodanie więcej gier do launchera
+- Poprawiono optymalizacje
+- Usunięcie zbędnego kodu
+
 Prace nadal trwają
