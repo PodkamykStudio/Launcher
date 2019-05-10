@@ -56,4 +56,13 @@ Update History
 - Poprawiono optymalizacje
 - Usunięcie zbędnego kodu
 
+
+10.05.2019 v 0.85
+- Dodanie Kina
+- Dodanie nowych gier do launchera
+- Zoptymalizowanie aplikacji
+- Szybsze ładowanie
+- Ściszenie zbyt głośnej muzyki w tle
+
+
 Prace nadal trwają
