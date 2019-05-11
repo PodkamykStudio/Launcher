@@ -63,6 +63,7 @@ Update History
 - Zoptymalizowanie aplikacji
 - Szybsze ładowanie
 - Ściszenie zbyt głośnej muzyki w tle
+- Dodanie opcji HTML w zakładce o autorze
 
 
 Prace nadal trwają
