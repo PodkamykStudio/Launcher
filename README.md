@@ -68,7 +68,6 @@ Update History
 
 
 19.05.2019 v 0.90
-
 - Zmienienie nazwy na Wiking Launcher
 - Dodanie intra
 - Optymalizacja pod względem ładowania
@@ -77,6 +76,15 @@ Update History
 
 
 19.05.2019 v 0.91
-
 - Naprawienie buga z muzyką na stronie 3 w zakładce gry
+
+
+25.10.2019 v 0.92
+- Poprawki wizualne
+- Dodano własną bibliotekę gier BETA
+- Dodano przycisk do pomijania intra
+- Dodano przycisk do włączania i wyłączania muzyki
+- Dodano muzykę w zakładce o autorze
+- Przyspieszenie ładowania aplikacji m.in usunięcie paska ładowania oraz optymalizacja pod kątem wczytywania
+
 Prace nadal trwają
