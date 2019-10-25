@@ -27,6 +27,7 @@ Update History
 - Ulepszenie interfejsu
 - Wiadomości po otworzeniu nie których aplikacji
 
+
 07.04.2019 v 0.40
 - Zaprogramowanie 6 formy
 - Dodanie informacji o autorze
@@ -45,6 +46,7 @@ Update History
 - Szybsze ładowanie aplikacji
 - Poprawa drobnych błędów
 
+
 10.04.2019 v 0.70
 - Testy nad nowymi grami w launcherze
 
@@ -58,7 +60,6 @@ Update History
 
 
 10.05.2019 v 0.85
-- Dodanie Kina
 - Dodanie nowych gier do launchera
 - Zoptymalizowanie aplikacji
 - Szybsze ładowanie
@@ -66,4 +67,16 @@ Update History
 - Dodanie opcji HTML w zakładce o autorze
 
 
+19.05.2019 v 0.90
+
+- Zmienienie nazwy na Wiking Launcher
+- Dodanie intra
+- Optymalizacja pod względem ładowania
+- Nowe Gry w Launcherze
+- Dodanie optymalizacji dysków w narzędziach
+
+
+19.05.2019 v 0.91
+
+- Naprawienie buga z muzyką na stronie 3 w zakładce gry
 Prace nadal trwają
