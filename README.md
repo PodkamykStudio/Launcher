@@ -87,4 +87,11 @@ Update History
 - Dodano muzykę w zakładce o autorze
 - Przyspieszenie ładowania aplikacji m.in usunięcie paska ładowania oraz optymalizacja pod kątem wczytywania
 
+
+31.10.2019
+- Poprawiono błędy w pisowni
+- Poprawiono działanie przycisków w Własnych Grach
+- Dodano funkcje zapisu
+- Własne gry już nie są w fazie BETA
+
 Prace nadal trwają
