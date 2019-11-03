@@ -88,10 +88,17 @@ Update History
 - Przyspieszenie ładowania aplikacji m.in usunięcie paska ładowania oraz optymalizacja pod kątem wczytywania
 
 
-31.10.2019
+31.10.2019 v 0.93
 - Poprawiono błędy w pisowni
 - Poprawiono działanie przycisków w Własnych Grach
 - Dodano funkcje zapisu
 - Własne gry już nie są w fazie BETA
 
+03.11.2019 v 0.94
+- Dodano ustawienia do launchera a m.in:
+  1.Wyłączenie intra
+  2.Wyłączenie muzyki na stałe
+  3.Własna muzyka
+ 
+ 
 Prace nadal trwają
