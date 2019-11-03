@@ -99,6 +99,8 @@ Update History
 - 1. Wyłączenie intra
 - 2. Wyłączenie muzyki na stałe
 - 3. Własna muzyka
+
+- Dodano aplikacje INFO w folderze z launcherem
  
  
 Prace nadal trwają
