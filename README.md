@@ -96,9 +96,9 @@ Update History
 
 03.11.2019 v 0.94
 - Dodano ustawienia do launchera a m.in:
-  1.Wyłączenie intra
-  2.Wyłączenie muzyki na stałe
-  3.Własna muzyka
+1.Wyłączenie intra
+2.Wyłączenie muzyki na stałe
+3.Własna muzyka
  
  
 Prace nadal trwają
