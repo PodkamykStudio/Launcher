@@ -103,9 +103,9 @@ Update History
 - Dodano aplikacje INFO w folderze z launcherem
 
 19.12.2019
--Dodano własne tło
--Zmieniono ikonę aplikacji INFO
--Dodano wybór języków m.in Angielski i Polski
--Dodano funkcję sprawdzania aktualizacji
+- Dodano własne tło
+- Zmieniono ikonę aplikacji INFO
+- Dodano wybór języków m.in Angielski i Polski
+- Dodano funkcję sprawdzania aktualizacji
  
 Prace nadal trwają
